@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "This is for develope NodeJS!!",
+  "main": "app.js",
+  "scripts": {
+    "test": "console.log('Hello NodeJS')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toeyWithcheez1103/NodeJS.git"
+  },
+  "author": "TOEY WithCheese",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toeyWithcheez1103/NodeJS/issues"
+  },
+  "homepage": "https://github.com/toeyWithcheez1103/NodeJS#readme",
+  "dependencies": {
+    "jshint": "^2.9.7"
+  }
+}
